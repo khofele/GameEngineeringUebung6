@@ -1,0 +1,141 @@
+****************
+Vektoria-Logfile
+
+****************
+Ok:    Distribudted Graphics API established
+Ok:    Collected materials in virtual hierarchy
+Ok:    Collected materials in real hierarchy
+Ok:    Cyberglasses API established
+Ok:    Graphics API established
+Info:  Tearing supported: 1
+Info:  GPU Adapter 1: Intel(R) UHD Graphics
+Info:  - Memory Dedicated System: 0
+Info:  - Memory Dedicated Video : 134217728
+Info:  - Memory Shared System   : 4182503424
+Info:      - Output 1: \\.\DISPLAY1
+Info:          - Resolution: 320 * 200, Refresh rate: 144390000 / 2406560 = 59.998505 Hz
+Info:          - Resolution: 320 * 200, Refresh rate: 144390000 / 2406560 = 59.998505 Hz
+Info:          - Resolution: 320 * 200, Refresh rate: 346550000 / 2406560 = 144.002228 Hz
+Info:          - Resolution: 320 * 200, Refresh rate: 346550000 / 2406560 = 144.002228 Hz
+Info:          - Resolution: 320 * 240, Refresh rate: 144390000 / 2406560 = 59.998505 Hz
+Info:          - Resolution: 320 * 240, Refresh rate: 144390000 / 2406560 = 59.998505 Hz
+Info:          - Resolution: 320 * 240, Refresh rate: 346550000 / 2406560 = 144.002228 Hz
+Info:          - Resolution: 320 * 240, Refresh rate: 346550000 / 2406560 = 144.002228 Hz
+Info:          - Resolution: 400 * 300, Refresh rate: 144390000 / 2406560 = 59.998505 Hz
+Info:          - Resolution: 400 * 300, Refresh rate: 144390000 / 2406560 = 59.998505 Hz
+Info:          - Resolution: 400 * 300, Refresh rate: 346550000 / 2406560 = 144.002228 Hz
+Info:          - Resolution: 400 * 300, Refresh rate: 346550000 / 2406560 = 144.002228 Hz
+Info:          - Resolution: 512 * 384, Refresh rate: 144390000 / 2406560 = 59.998505 Hz
+Info:          - Resolution: 512 * 384, Refresh rate: 144390000 / 2406560 = 59.998505 Hz
+Info:          - Resolution: 512 * 384, Refresh rate: 346550000 / 2406560 = 144.002228 Hz
+Info:          - Resolution: 512 * 384, Refresh rate: 346550000 / 2406560 = 144.002228 Hz
+Info:          - Resolution: 640 * 400, Refresh rate: 144390000 / 2406560 = 59.998505 Hz
+Info:          - Resolution: 640 * 400, Refresh rate: 144390000 / 2406560 = 59.998505 Hz
+Info:          - Resolution: 640 * 400, Refresh rate: 346550000 / 2406560 = 144.002228 Hz
+Info:          - Resolution: 640 * 400, Refresh rate: 346550000 / 2406560 = 144.002228 Hz
+Info:          - Resolution: 640 * 480, Refresh rate: 144390000 / 2406560 = 59.998505 Hz
+Info:          - Resolution: 640 * 480, Refresh rate: 144390000 / 2406560 = 59.998505 Hz
+Info:          - Resolution: 640 * 480, Refresh rate: 346550000 / 2406560 = 144.002228 Hz
+Info:          - Resolution: 640 * 480, Refresh rate: 346550000 / 2406560 = 144.002228 Hz
+Info:          - Resolution: 800 * 600, Refresh rate: 144390000 / 2406560 = 59.998505 Hz
+Info:          - Resolution: 800 * 600, Refresh rate: 144390000 / 2406560 = 59.998505 Hz
+Info:          - Resolution: 800 * 600, Refresh rate: 346550000 / 2406560 = 144.002228 Hz
+Info:          - Resolution: 800 * 600, Refresh rate: 346550000 / 2406560 = 144.002228 Hz
+Info:          - Resolution: 1024 * 768, Refresh rate: 144390000 / 2406560 = 59.998505 Hz
+Info:          - Resolution: 1024 * 768, Refresh rate: 144390000 / 2406560 = 59.998505 Hz
+Info:          - Resolution: 1024 * 768, Refresh rate: 346550000 / 2406560 = 144.002228 Hz
+Info:          - Resolution: 1024 * 768, Refresh rate: 346550000 / 2406560 = 144.002228 Hz
+Info:          - Resolution: 1152 * 864, Refresh rate: 144390000 / 2406560 = 59.998505 Hz
+Info:          - Resolution: 1152 * 864, Refresh rate: 144390000 / 2406560 = 59.998505 Hz
+Info:          - Resolution: 1152 * 864, Refresh rate: 346550000 / 2406560 = 144.002228 Hz
+Info:          - Resolution: 1152 * 864, Refresh rate: 346550000 / 2406560 = 144.002228 Hz
+Info:          - Resolution: 1280 * 600, Refresh rate: 144390000 / 2406560 = 59.998505 Hz
+Info:          - Resolution: 1280 * 600, Refresh rate: 144390000 / 2406560 = 59.998505 Hz
+Info:          - Resolution: 1280 * 600, Refresh rate: 346550000 / 2406560 = 144.002228 Hz
+Info:          - Resolution: 1280 * 600, Refresh rate: 346550000 / 2406560 = 144.002228 Hz
+Info:          - Resolution: 1280 * 720, Refresh rate: 144390000 / 2406560 = 59.998505 Hz
+Info:          - Resolution: 1280 * 720, Refresh rate: 144390000 / 2406560 = 59.998505 Hz
+Info:          - Resolution: 1280 * 720, Refresh rate: 346550000 / 2406560 = 144.002228 Hz
+Info:          - Resolution: 1280 * 720, Refresh rate: 346550000 / 2406560 = 144.002228 Hz
+Info:          - Resolution: 1280 * 768, Refresh rate: 144390000 / 2406560 = 59.998505 Hz
+Info:          - Resolution: 1280 * 768, Refresh rate: 144390000 / 2406560 = 59.998505 Hz
+Info:          - Resolution: 1280 * 768, Refresh rate: 346550000 / 2406560 = 144.002228 Hz
+Info:          - Resolution: 1280 * 768, Refresh rate: 346550000 / 2406560 = 144.002228 Hz
+Info:          - Resolution: 1280 * 800, Refresh rate: 144390000 / 2406560 = 59.998505 Hz
+Info:          - Resolution: 1280 * 800, Refresh rate: 144390000 / 2406560 = 59.998505 Hz
+Info:          - Resolution: 1280 * 800, Refresh rate: 346550000 / 2406560 = 144.002228 Hz
+Info:          - Resolution: 1280 * 800, Refresh rate: 346550000 / 2406560 = 144.002228 Hz
+Info:          - Resolution: 1280 * 960, Refresh rate: 144390000 / 2406560 = 59.998505 Hz
+Info:          - Resolution: 1280 * 960, Refresh rate: 144390000 / 2406560 = 59.998505 Hz
+Info:          - Resolution: 1280 * 960, Refresh rate: 346550000 / 2406560 = 144.002228 Hz
+Info:          - Resolution: 1280 * 960, Refresh rate: 346550000 / 2406560 = 144.002228 Hz
+Info:          - Resolution: 1280 * 1024, Refresh rate: 144390000 / 2406560 = 59.998505 Hz
+Info:          - Resolution: 1280 * 1024, Refresh rate: 144390000 / 2406560 = 59.998505 Hz
+Info:          - Resolution: 1280 * 1024, Refresh rate: 346550000 / 2406560 = 144.002228 Hz
+Info:          - Resolution: 1280 * 1024, Refresh rate: 346550000 / 2406560 = 144.002228 Hz
+Info:          - Resolution: 1360 * 768, Refresh rate: 144390000 / 2406560 = 59.998505 Hz
+Info:          - Resolution: 1360 * 768, Refresh rate: 144390000 / 2406560 = 59.998505 Hz
+Info:          - Resolution: 1360 * 768, Refresh rate: 346550000 / 2406560 = 144.002228 Hz
+Info:          - Resolution: 1360 * 768, Refresh rate: 346550000 / 2406560 = 144.002228 Hz
+Info:          - Resolution: 1366 * 768, Refresh rate: 144390000 / 2406560 = 59.998505 Hz
+Info:          - Resolution: 1366 * 768, Refresh rate: 144390000 / 2406560 = 59.998505 Hz
+Info:          - Resolution: 1366 * 768, Refresh rate: 346550000 / 2406560 = 144.002228 Hz
+Info:          - Resolution: 1366 * 768, Refresh rate: 346550000 / 2406560 = 144.002228 Hz
+Info:          - Resolution: 1400 * 1050, Refresh rate: 144390000 / 2406560 = 59.998505 Hz
+Info:          - Resolution: 1400 * 1050, Refresh rate: 144390000 / 2406560 = 59.998505 Hz
+Info:          - Resolution: 1400 * 1050, Refresh rate: 346550000 / 2406560 = 144.002228 Hz
+Info:          - Resolution: 1400 * 1050, Refresh rate: 346550000 / 2406560 = 144.002228 Hz
+Info:          - Resolution: 1440 * 900, Refresh rate: 144390000 / 2406560 = 59.998505 Hz
+Info:          - Resolution: 1440 * 900, Refresh rate: 144390000 / 2406560 = 59.998505 Hz
+Info:          - Resolution: 1440 * 900, Refresh rate: 346550000 / 2406560 = 144.002228 Hz
+Info:          - Resolution: 1440 * 900, Refresh rate: 346550000 / 2406560 = 144.002228 Hz
+Info:          - Resolution: 1600 * 900, Refresh rate: 144390000 / 2406560 = 59.998505 Hz
+Info:          - Resolution: 1600 * 900, Refresh rate: 144390000 / 2406560 = 59.998505 Hz
+Info:          - Resolution: 1600 * 900, Refresh rate: 346550000 / 2406560 = 144.002228 Hz
+Info:          - Resolution: 1600 * 900, Refresh rate: 346550000 / 2406560 = 144.002228 Hz
+Info:          - Resolution: 1680 * 1050, Refresh rate: 144390000 / 2406560 = 59.998505 Hz
+Info:          - Resolution: 1680 * 1050, Refresh rate: 144390000 / 2406560 = 59.998505 Hz
+Info:          - Resolution: 1680 * 1050, Refresh rate: 346550000 / 2406560 = 144.002228 Hz
+Info:          - Resolution: 1680 * 1050, Refresh rate: 346550000 / 2406560 = 144.002228 Hz
+Info:          - Resolution: 1920 * 1080, Refresh rate: 144390000 / 2406560 = 59.998505 Hz
+Info:          - Resolution: 1920 * 1080, Refresh rate: 346550000 / 2406560 = 144.002228 Hz
+Info:      - Nr of Outputs: 2
+Info:  GPU Adapter 2: NVIDIA GeForce RTX 2070 Super
+Info:  - Memory Dedicated System: 0
+Info:  - Memory Dedicated Video : 4082106368
+Info:  - Memory Shared System   : 4182503424
+Info:      - Nr of Outputs: 1
+Info:  GPU Adapter 3: Microsoft Basic Render Driver
+Info:  - Memory Dedicated System: 0
+Info:  - Memory Dedicated Video : 0
+Info:  - Memory Shared System   : 4182503424
+Info:      - Nr of Outputs: 1
+Info:  Choose 2. adapter as best
+Debug: Attempting descriptor heap creation with 16384 descriptors, taking 524288 bytes of memory
+Debug: Descriptor heap with 16384 descriptors created of requested 16384 descriptors
+Info:  Main pass SRV descriptor heap created with 16384 descriptor slots
+Warn:  Your sound card is not compatible to DirectSound, so the calculation of the 3D sounds will reduce the frame rate.
+Info:  PrimaryBuffer buffer has 32768 Bytes.
+Ok:    DirectSound initialized
+Ok:    Sound API established
+Ok:    Frames created
+Ok:    Scenes created
+Ok:    Hierarchy checked.
+Ok:    Materials created
+Ok:    Viewports created
+Ok:    1. sound (sounds//Gun.wav) loaded and added as ambient
+Ok:    2. sound (sounds//Gun.wav) loaded and added as ambient
+Ok:    3. sound (sounds//Gun.wav) loaded and added as ambient
+Ok:    4. sound (sounds//Gun.wav) loaded and added as ambient
+Ok:    5. sound (sounds//Gun.wav) loaded and added as ambient
+Ok:    6. sound (sounds//Gun.wav) loaded and added as ambient
+Ok:    7. sound (sounds//Gun.wav) loaded and added as ambient
+Ok:    8. sound (sounds//Gun.wav) loaded and added as ambient
+Ok:    9. sound (sounds//Gun.wav) loaded and added as ambient
+Ok:    10. sound (sounds//Gun.wav) loaded and added as ambient
+Ok:    11. sound (sounds//Gun.wav) loaded and added as ambient
+Ok:    12. sound (sounds//Gun.wav) loaded and added as ambient
+Ok:    13. sound (sounds//Gun.wav) loaded and added as ambient
+Ok:    14. sound (sounds//Gun.wav) loaded and added as ambient
+Ok:    15. sound (sounds//Gun.wav) loaded and added as ambient
+Ok:    16. sound (sounds//Explosion.wav) loaded and added as ambient
